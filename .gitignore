@@ -1,1 +1,3 @@
-.css .xml .kml
+*.css 
+*.xml 
+*.kml
